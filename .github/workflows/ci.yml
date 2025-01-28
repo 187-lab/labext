@@ -24,4 +24,4 @@ jobs:
 
       - name: Running tests
         run: |
-          python -m pytest add.py
+          python -m pytest addi.py
